@@ -1,0 +1,6 @@
+Product,Supplier,Customer,Gender
+Product 1,Supplier 1,Customer 1,Male
+Product 2,Supplier 2,Customer 1,Female
+Product 3,Supplier 1,Customer 2,Male
+Product 4,Supplier 2,Customer 2,Female
+Product 5,Supplier 2,Customer 3,Female
